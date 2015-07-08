@@ -1,0 +1,13 @@
+div {
+  text-align: center;
+  Border: 3px solid #000;
+  width: 50%;
+  height: 100%;
+  margin: 0 auto;
+}
+p { 
+  font-size: 20;
+  text-align: center;
+  text-align: bottom;
+  color: magenta;
+}
